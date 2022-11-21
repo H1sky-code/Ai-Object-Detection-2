@@ -1,0 +1,21 @@
+.header{
+    background-color: lightskyblue;
+    margin-top: 0;
+    width: 100%;
+    font-size: 30px;
+    
+}
+
+body{
+
+    background-size: cover;
+    
+}
+p{
+    color: black;
+    font-size: small;
+    
+}
+canvas{
+    border-radius: 10px;
+}
